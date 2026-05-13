@@ -39,9 +39,9 @@ Este projeto utiliza **Machine Learning (K-Means)** para segmentar **1.338 clien
 
 | Cluster | Perfil | Clientes | Idade Média | IMC Médio | Custo Médio | Margem | Prêmio Alvo |
 |---|---|---|---|---|---|---|---|
-| 0 | Jovens Saudáveis | 414 | ~26 anos | ~22,8 | R$ 1.884 | 15% | R$ 2.513 |
-| 1 | Alto Risco (Idade/IMC) | 356 | ~53 anos | ~31,9 | R$ 4.746 | -5% ⚠️ | R$ 6.328 |
-| 2 | Família Numerosa | 294 | ~41 anos | ~31,7 | R$ 2.133 | 25% | R$ 3.047 |
+| 0 | Jovens Saudáveis | 414 | 26 anos | 22,8 | R$ 1.884 | 15% | R$ 2.513 |
+| 1 | Alto Risco (Idade/IMC) | 356 | 53 anos | 31,9 | R$ 4.746 | -5% ⚠️ | R$ 6.328 |
+| 2 | Família Numerosa | 294 | 41 anos | 31,7 | R$ 2.133 | 25% | R$ 3.047 |
 | 3 | Elegíveis a Desconto | 274 | 39 | 28 | R$ 2.576 | 9% | R$ 3.220 |
 
 > ⚠️ O Cluster 1 apresenta **margem negativa**, indicando que o prêmio atual não cobre os custos desse segmento de alto risco.
