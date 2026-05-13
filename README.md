@@ -67,8 +67,6 @@ Health_Insurance.xlsx
 
 - **Python** — Clusterização K-Means (scikit-learn), padronização e método do cotovelo
 - **Excel** — Análises estatísticas, simulações e visualizações
-- **Power BI** *(sugerido)* — Dashboards interativos
-
 ---
 
 ## 📌 Principais Conclusões
